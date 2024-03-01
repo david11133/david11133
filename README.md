@@ -6,7 +6,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Moataz+Elmesmary+%F0%9F%91%8B;ML+and+DL+Learner;Passionate+Data+Scientist;Python+language+Enthusiast" alt="Headline" />
     </div>
 
-<h3 align="center">A detail-oriented and diligent software engineer, interested in Data Science, Machine Learning and Deep Learning.</h3>
+<h3 align="center">Data wizard in the making, hailing from Egypt</h3>
 
 
 <h6 align="center"><img src="https://komarev.com/ghpvc/?username=Moataz-Elmesmary&label=Profile%20views&color=0e75b6&style=flat" alt="chclopes" /><br><i>This counter was added on 13-6-2022</i></h6>
@@ -16,7 +16,7 @@
 
 
 
-CS Fresh Graduate | Major in Medical Informatics. I`m Interested in Data Analysis, Machine Learning and Artificial Intelligence. I also create content. I really enjoy learning languages as well as web designing.
+CS Student | Major in Computer Science. I`m Interested in Data Analysis, Data Engineering and Big Data. I also create content. I really enjoy learning languages as well as web designing.
 
 
 Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analytics - Data Visualization - Statistics - Probability - Machine Learning /HTML / CSS/ JS
@@ -39,7 +39,7 @@ Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analyt
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white")
   ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white")
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-  ![DATA SCIENCE](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=data%20science)
+  ![DATA Engineering](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=data%20science)
   ![Machine Learning](https://img.shields.io/badge/-ML-333333?style=flat&logo=ML)
 
 - 🌐 &nbsp;
@@ -66,7 +66,7 @@ Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analyt
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
-<a href="mailto:moataz.mesmary@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-moataz.mesmary@gmail.com-blue?style=flat-square&logo=gmail"></a><br>
+<a href="davidnady4yad@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-moataz.mesmary@gmail.com-blue?style=flat-square&logo=gmail"></a><br>
 <a href="https://www.instagram.com/moatazelmesmary/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-moatazelmesmary-blue?style=flat-square&logo=instagram"></a>
 
 ### 🏆 Trophies
