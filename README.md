@@ -3,7 +3,7 @@
     </div>
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Moataz+Elmesmary+%F0%9F%91%8B;ML+and+DL+Learner;Passionate+Data+Scientist;Python+language+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00F727&random=false&width=520&lines=Hi+there+I'm+David+Nady;ETL+and+Big+Data+Engineer;Passionate+about+Data+Engineering" alt="Headline" />
     </div>
 
 <h3 align="center">Data wizard in the making, hailing from Egypt</h3>
