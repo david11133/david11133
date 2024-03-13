@@ -69,34 +69,14 @@ Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analyt
 
 <a href="davidnady4yad@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail---davidnady4yad%40gmail.com-blue?style=flat&logo=gmail"></a><br>
 
-### 🏆 Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Moataz-Elmesmary&no-frame=true&no-bg=true&theme=juicyfresh&column=5&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Languages and Tools:</h3>
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
 
-### <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width=30 height=40> Overall Stats 
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Moataz-Elmesmary/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Moataz-Elmesmary&hide_border=true&show_icons=true" alt="Moataz's GitHub Stats" /> </a>
-    </td>
-    <td>
-      <a href="https://github.com/Moataz-Elmesmary/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moataz-Elmesmary&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Moataz-Elmesmary&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Moataz's GitHub Readme Streak Stats" /> </a>
-    </td>
-  </tr>
-</table>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Moataz-Elmesmary&theme=tokyo-night)](https://github.com/Moataz-Elmesmary/github-readme-activity-graph)
 
 
 <hr>
