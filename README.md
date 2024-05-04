@@ -44,14 +44,14 @@ Let’s connect and collaborate! 🚀
   ![DATA Engineering](https://img.shields.io/badge/Data%20Engineering-gray)
 
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![FLASK](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-  ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=OpenCV)
+  ![AWS](https://img.shields.io/badge/aws-gray?style=flat&logo=amazonaws)
+  ![GCP](https://img.shields.io/badge/gcp-gray?style=flat&logo=googlecloud)
+
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MSSQL](https://img.shields.io/badge/SQL-gray?logo=microsoftsqlserver
-)
+  ![MSSQL](https://img.shields.io/badge/SQL-gray?logo=microsoftsqlserver)
+  ![DBT](https://img.shields.io/badge/dbt-gray?style=flat&logo=dbt)
+  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
