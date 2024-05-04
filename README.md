@@ -64,17 +64,18 @@ Let’s connect and collaborate! 🚀
 [<img src='https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/david-nady-8b0915283/)
 [<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-128.png' alt='facebook' height='40'>](https://www.facebook.com/)
 [<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-64.png' alt='twitter' height='40'>](https://twitter.com/starboi_0)
-[<img src='https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-64.png' alt='github' height='40'>](https://github.com/david11133)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
 <a href="davidnady4yad@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail---davidnady4yad%40gmail.com-blue?style=flat&logo=gmail"></a><br>
 
+<!-- +  
 
 <h3 align="left">Languages and Tools:</h3>
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
++ -->
 
 
 
