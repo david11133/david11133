@@ -16,10 +16,11 @@
 
 
 
-CS Student | Major in Computer Science. I`m Interested in Data Analysis, Data Engineering and Big Data. I also create content. I really enjoy learning languages as well as web designing.
+👋 Hi there! I’m an aspiring data enthusiast currently pursuing a Bachelor of Science (BSc) in Computer Science. 
 
+My passion lies in data engineering and analytics, where I thrive on solving complex problems. With proficiency in Python, SQL, and building ETL/ELT pipelines, I’m ready to contribute to innovative projects and learn in a dynamic environment. 
 
-Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analytics - Data Visualization - Statistics - Probability - Machine Learning /HTML / CSS/ JS
+Let’s connect and collaborate! 🚀
 
 
 
