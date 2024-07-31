@@ -9,18 +9,22 @@
 <h3 align="center">Data wizard in the making, hailing from Egypt</h3>
 
 
-<h6 align="center"><img src="https://komarev.com/ghpvc/?username=Moataz-Elmesmary&label=Profile%20views&color=0e75b6&style=flat" alt="chclopes" /><br><i>This counter was added on 13-6-2022</i></h6>
-
-[![Twitter Follow](https://img.shields.io/badge/%20%20%20Follow%20%40starboi_0%20%20%20----black?style=flat&logo=x&color=blue)](https://twitter.com/starboi_0)<br>
+<h6 align="center"><img src="https://komarev.com/ghpvc/?username=Moataz-Elmesmary&label=Profile%20views&color=0e75b6&style=flat" alt="chclopes" /><br><i>This counter was added on 13-6-2023</i></h6>
 
 
+<h2 align="left">
+<br> <br>
+</h2>
+
+<h2>
+          👋 Hi there! I’m an aspiring data enthusiast currently pursuing a Bachelor of Science (BSc) in Computer Science. <br><br>
+          My passion lies in data engineering and analytics, where I thrive on solving complex problems. With proficiency in Python, SQL, and building ETL/ELT pipelines, I’m ready to contribute to innovative projects and learn in a dynamic environment. <br><br> 
+          Let’s connect and collaborate! 🚀
+</h2>
 
 
-👋 Hi there! I’m an aspiring data enthusiast currently pursuing a Bachelor of Science (BSc) in Computer Science. 
 
-My passion lies in data engineering and analytics, where I thrive on solving complex problems. With proficiency in Python, SQL, and building ETL/ELT pipelines, I’m ready to contribute to innovative projects and learn in a dynamic environment. 
 
-Let’s connect and collaborate! 🚀
 
 
 
