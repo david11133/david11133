@@ -63,6 +63,10 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=david11133&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david11133&layout=compact&theme=buefy&hide_border=true"/> |
+| ------------- | ------------- |
+
+
 <h3 align="left"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=22 height=22>Connect with me:</h3> 
 
 ###
