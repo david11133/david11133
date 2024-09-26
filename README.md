@@ -53,7 +53,8 @@
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MSSQL](https://img.shields.io/badge/SQL-gray?logo=microsoftsqlserver)
+  ![PostgresSQL](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
+  ![SQL](https://img.shields.io/badge/SQL-gray?logo=microsoftsqlserver)
   ![DBT](https://img.shields.io/badge/dbt-gray?style=flat&logo=dbt)
   
 - ⚙️ &nbsp;
