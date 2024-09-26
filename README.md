@@ -44,11 +44,11 @@
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white")
   ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white")
   ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-gray)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
   ![DATA Engineering](https://img.shields.io/badge/Data%20Engineering-gray)
 
 - 🌐 &nbsp;
   ![AWS](https://img.shields.io/badge/aws-gray?style=flat&logo=amazonaws)
+  ![AZURE](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Azure)
   ![GCP](https://img.shields.io/badge/gcp-gray?style=flat&logo=googlecloud)
 
 - 🛢 &nbsp;
@@ -61,6 +61,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=david11133&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david11133&layout=compact&theme=buefy&hide_border=true"/> |
