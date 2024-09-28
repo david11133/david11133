@@ -65,8 +65,12 @@
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
 
+[![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankurchavda&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=david11133&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david11133&layout=compact&theme=buefy&hide_border=true"/> |
 | ------------- | ------------- |
+-->
 
 
 <h3 align="left"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=22 height=22>Connect with me:</h3> 
