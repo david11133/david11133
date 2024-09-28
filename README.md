@@ -65,7 +65,7 @@
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
 
-[![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankurchavda&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=david11133&show_icons=true&theme=onedark)](https://github.com/david11133/github-readme-stats)
 
 <!--
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=david11133&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david11133&layout=compact&theme=buefy&hide_border=true"/> |
