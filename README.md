@@ -21,8 +21,7 @@
 
 <h2>
           👋 Hi there! I’m an aspiring data enthusiast currently pursuing a Bachelor of Science (BSc) in Computer Science. <br><br>
-          My passion lies in data engineering and analytics, where I thrive on solving complex problems. With proficiency in Python, SQL, and building ETL/ELT pipelines, I’m ready to contribute to innovative projects and learn in a dynamic environment. <br><br> 
-          Let’s connect and collaborate! 🚀
+          My passion lies in data engineering and analytics, where I thrive on solving complex problems. With proficiency in Python, SQL, and building ETL/ELT pipelines, I’m ready to contribute to innovative projects and learn in a dynamic environment 🔨 <br><br> 
 </h2>
 
 
