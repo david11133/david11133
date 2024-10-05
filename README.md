@@ -6,7 +6,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00F727&random=false&width=520&lines=Hi+there+I'm+David+Nady;ETL+and+Big+Data+Engineer;Passionate+about+Data+Engineering" alt="Headline" />
     </div>
 
-<h3 align="center">I'm __David__, a data engineer from 🇪🇬 Egypt.</h3>
+<h3 align="center">I'm __David__, a data engineer from 🇪🇬 Egypt 📍</h3>
 
 
 <h6 align="center">
