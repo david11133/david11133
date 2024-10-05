@@ -90,7 +90,6 @@
 
 <a href="davidnady4yad@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-davidnady4yad%40gmail.com-blue?style=flat&logo=gmail"></a><br>
 
-View my pinned projects 👇
 
 <!-- +  
 
@@ -108,3 +107,5 @@ View my pinned projects 👇
  
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/Moataz.svg">
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+
+View my pinned projects 👇
