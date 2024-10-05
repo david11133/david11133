@@ -90,6 +90,8 @@
 
 <a href="davidnady4yad@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-davidnady4yad%40gmail.com-blue?style=flat&logo=gmail"></a><br>
 
+View my pinned projects 👇
+
 <!-- +  
 
 <h3 align="left">Languages and Tools:</h3>
