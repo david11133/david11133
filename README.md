@@ -49,10 +49,7 @@
   ![DATA Engineering](https://img.shields.io/badge/Data%20Engineering-gray)
 
 - 🌐 &nbsp;
-  ![AWS](https://img.shields.io/badge/aws-gray?style=flat&logo=amazonaws)
   ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-  ![AZURE](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Azure)
-  ![GCP](https://img.shields.io/badge/gcp-gray?style=flat&logo=googlecloud)
   ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 - 🛢 &nbsp;
