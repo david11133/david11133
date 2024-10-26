@@ -67,6 +67,8 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017B5B?style=for-the-badge&logo=apacheairflow&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=david11133&show_icons=true&theme=onedark)](https://github.com/david11133/github-readme-stats)
