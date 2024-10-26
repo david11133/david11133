@@ -42,11 +42,12 @@
 <h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"></h3>
 
 - 💻 &nbsp;
-  ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white")
-  ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white")
-  ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-gray)
-  ![DATA Engineering](https://img.shields.io/badge/Data%20Engineering-gray)
+  ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-7C7C7C?style=for-the-badge&logo=apache&logoColor=white)
+  ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-007ACC?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 
 - 🌐 &nbsp;
   ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
