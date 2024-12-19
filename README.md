@@ -45,32 +45,40 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-  ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-7C7C7C?style=for-the-badge&logo=apache&logoColor=white)
-  ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-007ACC?style=for-the-badge&logo=google-cloud&logoColor=white)
-
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-7C7C7C?style=for-the-badge&logo=apache&logoColor=white)
+  ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 - 🌐 &nbsp;
   ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-  ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Google Cloud Platform](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+  ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgresSQL](https://img.shields.io/badge/PostgresSQL-336791?style=for-the-badge&logo=postgres&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Github Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0E2A4D?style=for-the-badge&logo=apacheairflow&logoColor=white)
+  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0E2A4D?style=for-the-badge&logo=apache-airflow&logoColor=white)
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
 
 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=david11133&show_icons=true&theme=onedark)](https://github.com/david11133/github-readme-stats)
