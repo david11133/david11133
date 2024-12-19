@@ -1,6 +1,8 @@
+<!--
 <div align=center>
           <img alt="gif" align="center" src="https://github.com/david11133/david11133/blob/main/ancient_egyption_on_computer.jpg" width=300 height=300/>
-    </div>
+</div>
+-->
 
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00F727&random=false&width=520&lines=Hi+there+I'm+David+Nady;ETL+and+Big+Data+Engineer;Passionate+about+Data+Engineering" alt="Headline" />
