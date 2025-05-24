@@ -12,9 +12,9 @@
 ---
 
 ### 👋 About Me
-I'm an aspiring data enthusiast currently pursuing a **Bachelor's in Computer Science**.  
-My passion lies in **data engineering and analytics**, where I thrive on solving complex problems.  
-With skills in **Python, SQL**, and building **ETL/ELT pipelines**, I’m eager to contribute and grow in innovative environments 🚀
+Hey! I'm David, a Computer Science student who's really into data. I’ve been diving into data engineering and analytics lately, and I’m loving how it all comes together to solve real problems.
+
+Right now, I’m learning a lot about Python, SQL, and how to build ETL/ELT pipelines. I’m still growing, but I'm always excited to work on cool projects, learn new tools, and be part of something meaningful.
 
 <img align="right" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif" width="400" alt="Coding GIF" />
 
