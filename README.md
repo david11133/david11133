@@ -71,7 +71,7 @@ Right now, I’m learning a lot about Python, SQL, and how to build ETL/ELT pipe
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
 </a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-davidnady4yad@gmail.com-blue?style=flat&logo=gmail)](mailto:davidnady4yad@gmail.com)
+[davidnady4yad@gmail.com](mailto:davidnady4yad@gmail.com)
 
 ---
 
