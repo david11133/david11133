@@ -1,7 +1,8 @@
 ### 👋 About Me
-- ⚙️ Passionate about data engineering and software.
-- 🛠️ Currently exploring: Data pipelines, ETL/ELT, and data infrastructure.
-- 🐍 Learning: Python, SQL, and modern data tools.
+- 👋 Hello, I'm David Nady, a junior Data Engineer graduate with a year of hands-on experience.
+- ⚙️ I'm passionate about data Infrastructure, architecture, automation, and optimization.
+- 🌍 I love contributing to open source projects and I have participated in Google Summer of code 2025.
+- 🛠️ Currently exploring various data technologies: Data pipelines, ETL/ELT, and data infrastructure.
 - 🚀 building projects and learn new tech.
 
 <img align="right" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif" width="400" alt="Coding GIF" />
