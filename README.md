@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="rainy_night_computer.gif" alt="Welcome GIF" width="400"/>
+</p>
 ### 👋 About Me
 - 👋 Hello, I am a junior Data Engineer graduate with a year of hands-on experience.
 - ⚙️ I'm passionate about data Infrastructure, architecture, automation, and optimization.
