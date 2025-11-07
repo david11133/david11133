@@ -51,7 +51,8 @@
 
 ### 📈 GitHub Stats
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=david11133&show_icons=true&theme=onedark)
+<img width="550px" src="https://github-readme-stats.vercel.app/api?username=david11133&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true">
+<img width="550px" src="https://nirzak-streak-stats.vercel.app/?user=david11133&theme=shadow_blue&hide_border=false">
 
 ---
 
