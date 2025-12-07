@@ -3,18 +3,14 @@
   <img src="rainy_night_computer.gif" alt="Welcome GIF" width="1000"/>
 </p>
 
-### 👋 About Me
-- 👋 Hello, I am a junior Data Engineer graduate with a year of hands-on experience.
-- ⚙️ I'm passionate about data Infrastructure, architecture, automation, and optimization.
-- 🌍 I love open source projects and I have participated in Google Summer of code 2025.
-- 🛠️ Currently exploring new data technologies: Data pipelines, ETL/ELT, and data infrastructure.
-- 🚀 building projects and learn new tech.
+### About Me
+My name is David, and I am a Junior Data Engineer with about a year of hands on experience. I like building data systems and automating tasks. I've had an opportunity to work with **Google Summer of Code 2025** to solve many interesting and difficult problems throughout my career. Right now, I'm exploring new tools and tech around data pipelines, ETL/ELT, and overall data architecture.
 
 <img align="right" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif" width="400" alt="Coding GIF" />
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 #### Languages & Tools
 ![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white)
@@ -49,14 +45,22 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
-<img width="550px" src="https://github-readme-stats.vercel.app/api?username=david11133&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true">
-<img width="550px" src="https://nirzak-streak-stats.vercel.app/?user=david11133&theme=shadow_blue&hide_border=false">
+<table align="center">
+  <tr>
+    <td><img align="center" src="https://readmestats.999857.xyz/api?username=david11133&show_icons=true&locale=en&theme=dark" alt="David" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david11133&theme=dark" alt="David's Streak" /></td>
+  </tr>
+</table>
 
 ---
 
-### 🤝 Connect with Me
+![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=david11133&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
+
+---
+
+### Connect with Me
 
 <a href="https://www.linkedin.com/in/david-nady/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
