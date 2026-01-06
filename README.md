@@ -53,7 +53,7 @@ My name is David, and I am a Junior Data Engineer with about a year of hands on 
       <img src="https://readmestats.999857.xyz/api?username=david11133&show_icons=true&locale=en&theme=dark" alt="David's Stats" style="display:block; margin: 0 auto;" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=david11133&theme=dark" alt="David's Streak" style="display:block; margin: 0 auto;" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=david11133&theme=dark" alt="David's Streak" style="display:block; margin: 0 auto;" />
     </td>
   </tr>
 </table>
